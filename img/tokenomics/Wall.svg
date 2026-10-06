@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="sky" cx="50%" cy="18%" r="80%">
+      <stop offset="0%" stop-color="#FFF6C4"/>
+      <stop offset="55%" stop-color="#FFE56A"/>
+      <stop offset="100%" stop-color="#FFC400"/>
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#sky)"/>
+  <g fill="#FFFFFF" opacity="0.85">
+    <polygon points="240,180 252,210 284,214 258,236 266,268 240,250 214,268 222,236 196,214 228,210"/>
+    <polygon points="1560,140 1570,166 1598,170 1576,188 1582,216 1560,200 1538,216 1544,188 1522,170 1550,166"/>
+    <polygon points="980,90 990,116 1016,120 996,136 1002,162 980,148 958,162 964,136 944,120 970,116"/>
+    <polygon points="420,420 428,440 450,444 432,456 438,478 420,466 402,478 408,456 390,444 412,440"/>
+    <polygon points="1680,460 1688,480 1710,484 1692,496 1698,518 1680,506 1662,518 1668,496 1650,484 1672,480"/>
+  </g>
+</svg>
